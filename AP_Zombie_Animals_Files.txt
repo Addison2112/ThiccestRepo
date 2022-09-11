@@ -1,0 +1,75 @@
+    <!--Classnames-->
+
+    Zombie_Wolf1
+    Zombie_Wolf2
+    Zombie_Wolf3
+    Zombie_Wolf4
+    Zombie_Wolf5
+    
+
+    <!--Types Files Snippet-->
+    
+    <!--Start AP Zombie Animals-->
+    <type name="Zombie_Wolf1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+        <type name="Zombie_Wolf2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+        <type name="Zombie_Wolf3">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+        <type name="Zombie_Wolf4">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+            <type name="Zombie_Wolf5">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!--End AP Zombie Animals-->
+
+
+
+    <!--Events Child Snippet-->
+
+    <!--Start AP Zombie Animals-->
+                <child lootmax="0" lootmin="0" max="2" min="1" type="Zombie_Wolf1"/>
+                <child lootmax="0" lootmin="0" max="2" min="1" type="Zombie_Wolf2"/>
+                <child lootmax="0" lootmin="0" max="2" min="1" type="Zombie_Wolf3"/>
+                <child lootmax="0" lootmin="0" max="2" min="1" type="Zombie_Wolf4"/>               
+                <child lootmax="0" lootmin="0" max="2" min="1" type="Zombie_Wolf5"/>                                              
+    <!--End AP Zombie Animals-->
