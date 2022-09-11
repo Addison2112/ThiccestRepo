@@ -1,0 +1,13 @@
+///////////////////////////////////////////////////////////
+//														 //
+//      Put the Steam64 IDs for your Admins in here      //
+//      Make a new Line for every ID!					 //
+//														 //
+///////////////////////////////////////////////////////////
+
+76561198055419996	// Admin No1 - Addison
+76561199047529217   // Admin No2 - Krak3n
+76561198070470255   // Admin No3 - Glockguy40
+
+
+<FileEnd>			// This has to be on the End of this File and is very importand!
